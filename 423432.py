@@ -1,5 +1,5 @@
 // This Pine Script™ code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © ChartPrime
+// © ChartPrime 
 
 //@version=5
 indicator("Smart Money Oscillator [ChartPrime]", overlay = false, max_labels_count = 500, max_lines_count = 500)
